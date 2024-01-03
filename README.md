@@ -7,11 +7,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/channel/UCT7OxyuRDKZCWthkbo4FbPw" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tukocde" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tukocde" height="40" width="40" />
   </a>
   <br> 
   <a href="https://discord.gg/tuko0714" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tuko0714" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tuko0714" height="40" width="40" />
   </a>
    #tuko0714 
 </p>
