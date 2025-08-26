@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Turker</h1>
 <h2 align="left">
   <p align="left">
-    <a href="https://tukodev.github.io/">Visit My Website</a>
+    <a href="https://tukodev.site/">Visit My Website</a>
   </p>
 </h2>
 <h3 align="left">Connect with me:</h3>
